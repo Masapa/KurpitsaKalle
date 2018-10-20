@@ -8,7 +8,7 @@ A - KiviKiviKivi (saa huijata)
 
 4 - Kurpitsa
 
-5 - KuriptaKalle
+5 - KurpitsaKalle
 
 6 - Kategoria
 
